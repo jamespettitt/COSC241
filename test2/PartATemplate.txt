@@ -1,0 +1,18 @@
+public static boolean rowLengthDecrease(int[][] t){
+
+}
+
+
+public static boolean rowValuesIncrease(int[][] t){
+  
+}
+
+
+public static boolean columnValuesIncrease(int[][] t){
+
+}
+
+
+public static boolean isSetOf1toN(int[][] t){
+
+}

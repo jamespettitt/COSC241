@@ -1,0 +1,15 @@
+1) error: class hi is public, should be declard in a file named hi.java
+
+2) no error
+
+3) error:  ')' expected, error: unclosed string literal, error: ; expected, error: reached end of file while parsing
+
+4) error: unclosed string literal, error: ';' expected, error: reached end of file while parsing
+
+5) no error
+
+6) error: cannot find symbol printline
+
+7) error: ';' expected
+
+8) error: reached end of file while parsing
